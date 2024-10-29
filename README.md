@@ -2,6 +2,12 @@
 
 [![Rust CI/CD Pipeline](https://github.com/nogibjj/Hongyi-Duan-Individual-Project-2/actions/workflows/hello.yml/badge.svg)](https://github.com/nogibjj/Hongyi-Duan-Individual-Project-2/actions/workflows/hello.yml)
 
+## Use of LLM: how I utilized an LLM in my coding process
+
+1. USE LLM to write a detailed README.md file, only a link is enough.
+2. USE LLM to write the rust functions equivalent to the python functions.
+3. USE LLM to modify the rust.yml file.
+
 ## Project Structure
 
 The project follows the typical structure of a Rust project, with source code and configuration files organized as follows:
