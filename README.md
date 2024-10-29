@@ -2,6 +2,10 @@
 
 [![Rust CI/CD Pipeline](https://github.com/nogibjj/Hongyi-Duan-Individual-Project-2/actions/workflows/hello.yml/badge.svg)](https://github.com/nogibjj/Hongyi-Duan-Individual-Project-2/actions/workflows/hello.yml)
 
+## YouTube Link
+
+https://www.youtube.com/watch?v=MmBty5YLsU8
+
 ## Use of LLM: how I utilized an LLM in my coding process
 
 1. USE LLM to write a detailed README.md file, only a link is enough.
